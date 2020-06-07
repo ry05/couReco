@@ -6,7 +6,6 @@ CouReco is a minimalistic system built on the idea to help learners navigate thr
   
 *NOTE: This is a personal project initiated with the author's requirement for an end-to-end data science project that could help learn the skills of creating a dataset through web scraping, deploying a web-app via [Streamlit](https://www.streamlit.io/) and a basic primer into content-based recommendation systems. Though this tool makes reasonable recommendations as of now, it is far from being "intelligent". However, you could download this repo and work on it and make it "smarter"!* :smile: 
  
-
 ## Dataset Used
 For the purpose of building CouReco, data from Coursera was scraped using the requests and beautifulsoup4 libraries. The ```scraper.py``` file contains code for scraping data from [https://www.coursera.org/courses](https://www.coursera.org/courses) and generates [coursera-courses-overview.csv](https://github.com/ry05/couReco/blob/master/data/coursera-courses-overview.csv). The ```course_scraper.py``` file contains code to scrape details of each individual course and the output is [coursera-individual-courses.csv](https://github.com/ry05/couReco/blob/master/data/coursera-individual-courses.csv).  
 
@@ -44,6 +43,9 @@ The instructions to run CouReco on your local system are as follows:
   streamlit run recommender.py
   ```
 5. The app should open at http://localhost:8501
+
+## Screenshots
+![](https://github.com/ry05/couReco/blob/master/img/coureco-init.JPG)
 
 ## What can CouReco do?
 In a nutshell CouReco can perform the following tasks:
