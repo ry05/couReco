@@ -46,4 +46,6 @@ The instructions to run CouReco on your local system are as follows:
 5. The app should open at http://localhost:8501
 
 ## What can CouReco do?
-CouReco is a minimalistic system built with an idea to help learners navigate through the courses on Coursera, aided by a data-driven strategy. A learner should ideally be able to visualize different features provided in the dataset or interact with this app to find suitable courses to take based on what they have already learnt. However, in this inchoate stage t
+In a nutshell CouReco can perform the following tasks:
+* Select courses for you based on the skills you want to learn
+* Recommend courses that are most similar and dissimilar to the course you select
