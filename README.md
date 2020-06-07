@@ -46,6 +46,11 @@ The instructions to run CouReco on your local system are as follows:
 
 ## Screenshots
 ![](https://github.com/ry05/couReco/blob/master/img/coureco-init.JPG)
+<center>The CouReco Interface</center>
+![](https://github.com/ry05/couReco/blob/master/img/coureco-skill-filter.JPG)
+<center>Applying the Skill Filter</center>
+![](https://github.com/ry05/couReco/blob/master/img/coureco-recommend.JPG)
+<center>Recommendations Generated</center>
 
 ## What can CouReco do?
 In a nutshell CouReco can perform the following tasks:
