@@ -10,7 +10,8 @@ For the purpose of building CouReco, data from Coursera was scraped using the re
 Both these above datasets have been combined to give [coursera-courses.csv](https://github.com/ry05/couReco/blob/master/data/coursera-courses.csv). This file consists of 1000 instances and 14 features and has a size of 1.41 MB.
 
 ### Features in the Dataset
-The following features have been extracted for the dataset created above:
+The following features have been extracted for the dataset created above:  
+  
 **course_url:** The URL to the course homepage  
 **course_name:** The name of the course  
 **learning_product:** The type of product that the instance is. It can be a course, professional certificate or a specialization. *(While all instances of the dataset are referred to as courses , this is not be confused with the learning_product of a particular instance)*  
@@ -32,11 +33,11 @@ The instructions to run CouReco on your local system are as follows:
 1. Create a virtual enviornment on your local system to install this project's dependencied and run it
 2. Download or clone this repository into your virtual environment
 3. Run the following command to install necessary libraries for CouReco to run
-```
-pip install -r requirements.txt
-```
+  ```
+  pip install -r requirements.txt
+  ```
 4. Run the streamlit app with
-```
-streamlit run recommender.py
-```
+  ```
+  streamlit run recommender.py
+  ```
 5. The app should open at http://localhost:8501
