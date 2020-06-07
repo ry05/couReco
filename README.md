@@ -49,3 +49,10 @@ The instructions to run CouReco on your local system are as follows:
 In a nutshell CouReco can perform the following tasks:
 * Select courses for you based on the skills you want to learn
 * Recommend courses that are most similar and dissimilar to the course you select
+
+## References
+If you liked the concept and implementation of CouReco, do check out the following resources that provided me with some much needed help while working on this:
+* [The Streamlit Official Guide](https://www.streamlit.io/)
+* [The Real Python Guide to using Beautiful Soup](https://realpython.com/beautiful-soup-web-scraper-python/)
+* [An article about web scraping Coursera](https://medium.com/analytics-vidhya/web-scraping-and-coursera-8db6af45d83f)
+* [An article on building a content-based movie recommender with NLP](https://towardsdatascience.com/how-to-build-from-scratch-a-content-based-movie-recommender-with-natural-language-processing-25ad400eb243)
