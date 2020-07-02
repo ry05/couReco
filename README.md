@@ -32,7 +32,7 @@ The following features have been extracted for the dataset created above:
 ## Usage
 The instructions to run CouReco on your local system are as follows:
 
-1. Create a virtual enviornment on your local system to install this project's dependencied and run it
+1. Create a virtual environment on your local system to install this project's dependencied and run it
 2. Download or clone this repository into your virtual environment
 3. Run the following command to install necessary libraries for CouReco to run
   ```
