@@ -3,7 +3,7 @@ nltk==3.5
 matplotlib==3.2.1
 rake_nltk==1.0.4
 streamlit==0.61.0
-numpy==1.18.5
+numpy==1.22.0
 pandas==1.0.4
 requests==2.23.0
 beautifulsoup4==4.9.1
